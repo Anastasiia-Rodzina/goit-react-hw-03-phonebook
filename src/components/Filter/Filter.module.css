@@ -1,0 +1,15 @@
+.label {
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.filter {
+  width: 150px;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  outline: none;
+  border-radius: 2px;
+  border: 1px solid gainsboro;
+  box-shadow: 1px 1px 1px rgba(240, 239, 239, 0.5);
+  cursor: pointer;
+}

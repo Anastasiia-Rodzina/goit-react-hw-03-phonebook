@@ -1,0 +1,26 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  padding-left: 0;
+}
+.text {
+  margin: 0;
+  font-weight: 500;
+}
+
+.btn {
+  background-color: white;
+  padding: 5px 10px;
+  font-weight: 600;
+  outline: none;
+  border-radius: 2px;
+  border: 1px solid gainsboro;
+  box-shadow: 1px 1px 1px rgba(240, 239, 239, 0.5);
+  cursor: pointer;
+}
+.btn:hover,
+.btn:focus {
+  background-color: blue;
+  box-shadow: none;
+}
